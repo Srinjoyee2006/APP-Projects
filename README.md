@@ -8,7 +8,7 @@ These projects focus on building strong core skills in Java programming and user
 
 ## 🚀 Projects Included  
 
-### 🧮 1. Calculator App  
+### 🧮 1.Calculator App  
 A simple yet responsive **GUI-based calculator** built using **Java Swing**.  
 It performs basic arithmetic operations like **addition**, **subtraction**, **multiplication**, and **division**.  
 
@@ -22,7 +22,7 @@ It performs basic arithmetic operations like **addition**, **subtraction**, **mu
 bash
 javac CalculatorApp.java
 java CalculatorApp
-🧾 2. Student Registration Form
+###🧾 2. Student Registration Form
 A Java Swing + JDBC project that allows users to register students by entering their details and storing them in a MySQL database.
 
 ✨ Features
