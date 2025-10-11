@@ -19,7 +19,7 @@ It performs basic arithmetic operations like **addition**, **subtraction**, **mu
 - Demonstrates event-driven programming using ActionListeners  
 
 #### ▶️ Run the Project  
-```bash
+bash
 javac CalculatorApp.java
 java CalculatorApp
 🧾 2. Student Registration Form
